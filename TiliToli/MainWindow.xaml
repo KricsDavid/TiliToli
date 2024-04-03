@@ -6,7 +6,9 @@
         xmlns:local="clr-namespace:TiliToli"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
 
+
+    <Grid Name="gridMain">
+        
     </Grid>
 </Window>
