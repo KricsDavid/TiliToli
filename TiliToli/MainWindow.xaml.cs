@@ -161,9 +161,9 @@ namespace TiliToli
                         Grid.SetRow(btn2, row1);
                         Grid.SetColumn(btn2, col1);
 
-                        string tempContent = btn1.Content.ToString();
+                        /*string tempContent = btn1.Content.ToString();
                         btn1.Content = btn2.Content;
-                        btn2.Content = tempContent;
+                        btn2.Content = tempContent;*/
 
                         CheckGameCompletion();
                         break;
